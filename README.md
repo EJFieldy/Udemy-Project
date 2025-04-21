@@ -1,2 +1,5 @@
 # Udemy-Project
-A repo for my Udemy final project github 101
+
+### Github 101
+
+This is an example readme file, edited from my local computer, as part of my Udemy project.
